@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "pre": [],
+      "post": ["ep_etherpad-lite/express"],
+      "hooks": {
+        "createServer": "ep_startup_only/plugin"
+      }
+    }
+  ]
+}

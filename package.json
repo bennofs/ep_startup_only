@@ -1,0 +1,7 @@
+{
+  "name": "ep_startup_only",
+  "version": "1.0.0",
+  "description": "Exit directly after starting up etherpad. Useful for pre-initializing plugins",
+  "author": "bennofs (Benno Fünfstück) <benno.fuenfstueck@gmail.com>",
+  "engines": { "node": ">= 6.9.0" }
+}
